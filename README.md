@@ -2,7 +2,7 @@
 
 A complete Data Analytics and Exploratory Data Analysis (EDA) project using Python, Pandas, NumPy, and Matplotlib to analyze e-commerce sales performance and generate actionable business insights.
 
-📌 Project Overview
+📌 Project Overview :
 
 This project analyzes e-commerce transaction data to understand:
 
@@ -183,7 +183,7 @@ The analysis identifies:
 
 These findings can help businesses improve inventory planning, marketing, pricing, promotions, and sales strategies.
 
----
+----
 
 🚀 How to Run the Project
 
@@ -266,3 +266,5 @@ Madras Institute of Technology, Anna University
 ⭐ Project
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
+
+-------  ---------    --------
